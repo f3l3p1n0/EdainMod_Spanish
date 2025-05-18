@@ -19,5 +19,12 @@
       <li>Hacer clic al botón aceptar y posteriormente a instalar.</li>
       <li>Esperar a que el progreso finalice, finalmente hacer clic al botón cerrar.</li>
     </ol>
+    <h3>⚠️ Advertencia</h3>
+    <p>Es posible que al ejecutar el aplicativo, aparezca en windows el mensaje: <strong>Windows protegió su PC. Microsoft Defender SmartScreen impidió el inicio de una aplicación desconocida.</strong></p>
+    <p>Simplemente, haz clic en ejecutar de todas formas.</p>
+    <p>No hay por qué preocuparse. Este aplicativo no está firmado digitalmente y es un nuevo software que Microsoft no lo reconoce.</p>
+    <p>Con el tiempo, si el ejecutable se descarga y ejecuta sin incidentes, Microsoft puede dejar de marcarlo como sospechoso.</p>
+    <p>Por lo tanto, no hay riesgo malicioso, además que está compilado por mi.</p>
+    <p>Para cualquier otra duda, házmelo saber y te ayudaré encantado.</p>
   </body>
 </html>
