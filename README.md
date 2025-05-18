@@ -1,17 +1,23 @@
 <html>
   <body>
     <p align="center">
-       <img src='https://i.postimg.cc/kgDg0tZ3/Mod-Edain-4-7-Spanish-15-5-2024.png'>
-       <img src='https://i.postimg.cc/1zTY5bJ5/Screenshot-1.png'>
+       <img src='https://i.postimg.cc/k54xGb8s/generated-text.png'>
+      <br><br><br>
+       <img src='https://i.postimg.cc/jdbPN9PL/swappy-20250518-113048.png'>
     </p>
     <br>
-    <p><strong>PASOS A SEGUIR</strong></p>
-<ol>
-  <li>Iniciar instalador y dar clic a abrir.</li>
-  <li>Seleccionar directorio "C:\Program Files (x86)\Electronic Arts\El Resurgir del Rey Brujo".</li>
-  <li>Dar clic a aceptar e instalar.</li>
-  <li>Esperar a que el progreso finalice y cerrar instalador.</li>
-  <li>Comprobar.</li>
-</ol>
+    <h3>🧡 Agradezco que hayas llegado hasta aquí</h3>
+    <p>Simplemente desear que sea de tu agrado y que puedas disfrutar el Mod Edain ahora que será traducido.</p>
+    <p>Este proyecto está pensado para la comunidad hispanohablante que aun continúa jugando al videojuego el Resurgir del Rey Brujo.</p>
+    <p>Agradecería que cualquier error que veas o idea que tengas, me lo comentaras a través de mis redes sociales. Sería de gran ayuda.</p>
+    <br>
+    <h3>🚀 Procedimiento para instalar traducción</h3>
+    <ol>
+      <li>Descargar aplicativo desde aquí: <a href="https://github.com/f3l3p1n0/EdainMod_Spanish/releases/download/v1.0/Traduccion.Espanol.Edain.Mod.4.8.1.exe">Enlace</a>.</li>
+      <li>Iniciar instalador y hacer clic al botón abrir.</li>
+      <li>Seleccionar directorio "C:\Program Files (x86)\Electronic Arts\El Resurgir del Rey Brujo".</li>
+      <li>Hacer clic al botón aceptar y posteriormente a instalar.</li>
+      <li>Esperar a que el progreso finalice, finalmente hacer clic al botón cerrar.</li>
+    </ol>
   </body>
 </html>
