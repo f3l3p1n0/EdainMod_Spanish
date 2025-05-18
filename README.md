@@ -1,8 +1,8 @@
 <html>
   <body>
     <p align="center">
-       <img src='https://i.postimg.cc/k54xGb8s/generated-text.png'>
-      <br><br><br>
+       <img src='https://i.postimg.cc/HLndNYDj/Traductor-Edain-Mod-Spanish-18-5-2025.png'>
+      <br>
        <img src='https://i.postimg.cc/jdbPN9PL/swappy-20250518-113048.png'>
     </p>
     <br>
