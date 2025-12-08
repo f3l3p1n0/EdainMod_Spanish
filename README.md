@@ -1,4 +1,4 @@
-<html>
+<!-- <html>
   <body>
     <p align="center">
        <img src='https://i.postimg.cc/HLndNYDj/Traductor-Edain-Mod-Spanish-18-5-2025.png'>
@@ -28,4 +28,7 @@
     <p>Por lo tanto, no hay riesgo malicioso, además que está compilado por mi.</p>
     <p>Para cualquier otra duda, házmelo saber y te ayudaré encantado.</p>
   </body>
-</html>
+</html>-->
+Repositorio en construcción. Volveremos pronto :)
+
+Disculpen las molestias.
