@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.1.0",
-  "downloadUrl": "https://github.com/TU_USUARIO/TU_REPO/releases/download/v1.0.0/englishpatch201_v1.0.0.big",
-  "changelog": "Traducción al español para Edain versión 4.8.3.1.",
+  "downloadUrl": "https://raw.githubusercontent.com/f3l3p1n0/EdainMod_Spanish/refs/heads/main/translations/lotr_es.txt",
+  "changelog": "Traducción al español para Edain versión 4.8.3.1",
   "edainVersionTarget": "4.8.3.1"
 }
