@@ -1,7 +1,8 @@
 {
   "translationVersion": "1.1.0",
-  "textUrl": "https://github.com/f3l3p1n0/EdainMod_Spanish/blob/main/lotr.str",
-  "edainVersionTarget": "4.8.2",
+  "textUrl": "https://raw.githubusercontent.com/f3l3p1n0/EdainMod_Spanish/main/lotr.str",
+  "edainVersionTarget": "4.8.3.1",
   "minLauncherVersion": "1.0.0",
-  "changelog": "Update versión pública para Edain 4.8.2"
+  "changelog": "Update versión pública para Edain 4.8.3.1"
 }
+
