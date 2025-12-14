@@ -3,8 +3,9 @@
   "textUrl": "https://raw.githubusercontent.com/f3l3p1n0/EdainMod_Spanish/main/lotr.str", 
   "targets": { 
     "workshop": "4.7.2", 
-    "classic": "4.7.2" 
+    "classic": "4.8.2" 
   }, 
   "minLauncherVersion": "1.0.0", 
   "changelog": "Update versión pública para Edain 4.7.2" 
 }
+
